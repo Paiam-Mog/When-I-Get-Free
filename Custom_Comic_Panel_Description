@@ -12,11 +12,13 @@ A video displaying the use of the system can be seen here: https://drive.google.
 This system was built to utilize features from the Panoply Visual Comic Asset found here: 
 https://assetstore.unity.com/packages/tools/utilities/panoply-comics-splitscreen-for-unity-58506
 
+
 Coding Features and Strategies Utilized in this system:
  - The panels are built to have generic functionality so that video and graphic panels can be in the same sequence without changing how a pure video or pure graphic sequence is 
  generated
  - A series of tools and values can be set by designers in the inspector of the Engine to change the behavior of the panels and transitions allowing them to "program" how the 
  comic sequence flows without needing to code anything
+ 
 
 Code Snippets:
 Not available due to NDA.
