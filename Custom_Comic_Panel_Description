@@ -1,13 +1,22 @@
 Custom Comic Panel System:
 
 Description:
-This systems allows for the creation of a visual comic sequence comprised of custom comic panels and interactive transitions. The custom comic panels can either feature a video clip that plays once the panel is reached or an animating graphic panel with a series of images that move and transform on the screen. Each panel can be transition to another through an interactive transition that involves the player clicking or dragging their finger across the screen in a particular way. The custom comic panels feature a variety of applications and have a lot of available features, tools, and subsystems that support it overall to allow designers to quickly design these seuqnece through the inspector without having to add or write any code. The system also supports both video and graphic panels to be incorporated together in the same sequence and maintain the same behavior.
+This systems allows for the creation of a visual comic sequence comprised of custom comic panels and interactive transitions. The custom comic panels can either feature a video 
+clip that plays once the panel is reached or an animating graphic panel with a series of images that move and transform on the screen. Each panel can be transition to another 
+through an interactive transition that involves the player clicking or dragging their finger across the screen in a particular way. The custom comic panels feature a variety 
+of applications and have a lot of available features, tools, and subsystems that support it overall to allow designers to quickly design these seuqnece through the inspector 
+without having to add or write any code. The system also supports both video and graphic panels to be incorporated together in the same sequence and maintain the same behavior.
 
-A video displaying the use of the system can be seen here: 
+A video displaying the use of the system can be seen here: https://drive.google.com/file/d/1-Dj2eH-eIW_07Xu6agUnRX4KKquVhZU4/view?usp=sharing
+
+This system was built to utilize features from the Panoply Visual Comic Asset found here: 
+https://assetstore.unity.com/packages/tools/utilities/panoply-comics-splitscreen-for-unity-58506
 
 Coding Features and Strategies Utilized in this system:
- - The panels are built to have generic functionality so that video and graphic panels can be in the same sequence without changing how a pure video or pure graphic sequence is generated
- - A series of tools and values can be set by designers in the inspector of the Engine to change the behavior of the panels and transitions allowing them to "program" how the comic sequence flows without needing to code anything
+ - The panels are built to have generic functionality so that video and graphic panels can be in the same sequence without changing how a pure video or pure graphic sequence is 
+ generated
+ - A series of tools and values can be set by designers in the inspector of the Engine to change the behavior of the panels and transitions allowing them to "program" how the 
+ comic sequence flows without needing to code anything
 
 Code Snippets:
 Not available due to NDA.
