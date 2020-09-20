@@ -1,14 +1,19 @@
 Puzzle Gameplay Additional Features:
 
 Description:
-The puzzle gameplay sequence was already built and incorporated into the game. It featured a series of movable and flippable pieces that can be rearranged to form an image. Each time a section of the puzzle was completed it would play a short video and some audio until the whole puzzle was complete. A lot of the changes I made mostly involved fixing bugs and issues that came up in playtesting as well as ways to better communicate to the player what was happening/needed to be done visually. Some of these visual changes and additional features include:
+The puzzle gameplay sequence was already built and incorporated into the game. It featured a series of movable and flippable pieces that can be rearranged to form an image. 
+Each time a section of the puzzle was completed it would play a short video and some audio until the whole puzzle was complete. A lot of the changes I made mostly involved 
+fixing bugs and issues that came up in playtesting as well as ways to better communicate to the player what was happening/needed to be done visually. Some of these visual 
+changes and additional features include:
  - Adding a highlighted background behind pieces that are movable/flippable
  - Adding in a zoom in button to get a closer look at pieces
  - Adding a skip instructions button at the tutorial in the beginning of the puzzle
- - Cleaning up the tutorial sequence and adding hidden restrictions such as preventing the player from placing a piece in the wrong spot so they don't make a mistake and lose all their turns
+ - Cleaning up the tutorial sequence and adding hidden restrictions such as preventing the player from placing a piece in the wrong spot so they don't make a mistake and 
+ lose all their turns
  - Made the pieces overall larger so it is easier to tell which piece connects where
  
-A video demonstrating the puzzle sequence as well as some of these additional features can be found here: https://drive.google.com/file/d/1TINfeskqp05tZsZyWXgxH9tujUFYFCwa/view?usp=sharing
+A video demonstrating the puzzle sequence as well as some of these additional features can be found here: 
+https://drive.google.com/file/d/1TINfeskqp05tZsZyWXgxH9tujUFYFCwa/view?usp=sharing
 
 
 Code Snippets:
